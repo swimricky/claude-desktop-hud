@@ -1,0 +1,5 @@
+{
+  "name": "claude-desktop-hud",
+  "owner": { "name": "swimricky" },
+  "plugins": [{ "name": "desktop-hud", "source": "./" }]
+}

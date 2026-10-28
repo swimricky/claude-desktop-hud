@@ -1,0 +1,6 @@
+{
+  "name": "desktop-hud",
+  "version": "0.1.0",
+  "description": "A claude-hud style HUD (model, git, context, usage, config counts, tools, agents, todos) in the band above the prompt of the Claude desktop app",
+  "types": "./types/index.d.ts"
+}
