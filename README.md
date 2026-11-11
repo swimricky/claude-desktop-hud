@@ -26,5 +26,3 @@ claude plugin install desktop-hud --marketplace swimricky/claude-desktop-hud
 ```
 
 In the desktop app, where `/plugin` does not run: click + next to the prompt box, then Plugins, Add marketplace with `swimricky/claude-desktop-hud`, then Add plugin.
-
-This repository is private: installing needs read access on GitHub and a git credential for github.com on your machine (an SSH key, or `gh auth login` then `gh auth setup-git`).
